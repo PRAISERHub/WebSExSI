@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.preview/
+*.tar.gz
+research/original-site.html
+.openai/

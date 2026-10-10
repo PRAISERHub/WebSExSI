@@ -1,0 +1,15 @@
+{
+  "name": "sexsi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SExSI - Sustaining Excellence with Super Intelligence",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs",
+    "check": "node --check script.js"
+  },
+  "devDependencies": {
+    "animejs": "4.5.0",
+    "playwright": "1.64.0"
+  }
+}
